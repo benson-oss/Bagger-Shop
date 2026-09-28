@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://benson-oss.github.io/Burger-House",  "scripts": {
+  "homepage": "https://benson-oss.github.io/Bagger-Shop",  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",

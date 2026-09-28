@@ -72,8 +72,10 @@ export default function App() {
         ...burger,
         quantity: 1,
       },
+
     ]);
   };
+  
 
   const removeFromCart = (id) => {
     setCart((currentCart) =>
